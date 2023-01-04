@@ -1,0 +1,13 @@
+[
+{
+ "frame_id":1, 
+ "filename":"data/test.jpg", 
+ "objects": [ 
+  {"class_id":3, "name":"other", "relative_coordinates":{"center_x":0.489085, "center_y":0.609557, "width":0.176299, "height":0.259016}, "confidence":0.951732}, 
+  {"class_id":3, "name":"other", "relative_coordinates":{"center_x":0.489206, "center_y":0.610203, "width":0.098408, "height":0.173293}, "confidence":0.412196}, 
+  {"class_id":1, "name":"tong", "relative_coordinates":{"center_x":0.344576, "center_y":0.260876, "width":0.100327, "height":0.141239}, "confidence":0.632811}, 
+  {"class_id":0, "name":"wan", "relative_coordinates":{"center_x":0.760014, "center_y":0.435565, "width":0.171704, "height":0.218547}, "confidence":0.999689}, 
+  {"class_id":1, "name":"tong", "relative_coordinates":{"center_x":0.350878, "center_y":0.274485, "width":0.194890, "height":0.218080}, "confidence":0.834285}
+ ] 
+}
+]
