@@ -17,9 +17,9 @@ Models
 ---
 There are 4 categories to classify:
 1. WAN(萬): From number 1 to 9.![](https://github.com/nianjingfeng/AOI/blob/master/image/wan_data.jpg)
-3. TONG(筒): From number 1 to 9.![](https://github.com/nianjingfeng/AOI/blob/master/image/ting_data.jpg)
+3. TONG(筒): From number 1 to 9.![](https://github.com/nianjingfeng/AOI/blob/master/image/tong_data.jpg)
 4. TIAO(條): From number 1 to 9.![](https://github.com/nianjingfeng/AOI/blob/master/image/tiao_data.jpg)
-5. Other: Particular pattern.![](https://github.com/nianjingfeng/AOI/blob/master/image/other.png)
+5. Other: Particular pattern.![](https://github.com/nianjingfeng/AOI/blob/master/image/other_data.jpg)
 
 Process
 ---
