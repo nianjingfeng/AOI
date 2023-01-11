@@ -3,7 +3,7 @@ The project of course Practical AOI and Machine Vision
 ## Guide
 
 The final report of this course is to classify objects using object recognition technology with a robotic arm, and the category of the object is selected by each group.<br>
-In this final report, we choose mahjong as our classification object, and we use YOLOv4 for object recognition under Windows 10 environment. [Click here](https://github.com/Tianxiaomo/pytorch-YOLOv4) to know more information about YOLOv4. Please check AOI.py to get the code in this final report.
+In this final report, we choose mahjong as our classification object, and we use YOLOv4 for object recognition under Windows 10 environment. [Click here](https://github.com/Tianxiaomo/pytorch-YOLOv4) to know more information about YOLOv4. Please check AOI.py to get the code of this final report.
 
 Setting
 ---
