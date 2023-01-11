@@ -11,15 +11,15 @@ Three equipments are used in this final report:<br>
 1. Server
 2. Conveyor+Camera
 3. Robotic arm<br>
-![](https://i.imgur.com/QekkGQ3.jpg)
+![](https://github.com/nianjingfeng/AOI/blob/master/image/robot.jpg)
 
 Models
 ---
 There are 4 categories to classify:
-1. WAN(萬): From number 1 to 9.![](https://i.imgur.com/57UoZ6T.jpg)
-3. TONG(筒): From number 1 to 9.![](https://i.imgur.com/dyN17GP.jpg)
-4. TIAO(條): From number 1 to 9.![](https://i.imgur.com/Zo5E54S.jpg)
-5. Other: Particular pattern.![](https://i.imgur.com/Zzmubvp.png)
+1. WAN(萬): From number 1 to 9.![](https://github.com/nianjingfeng/AOI/blob/master/image/wan_data.jpg)
+3. TONG(筒): From number 1 to 9.![](https://github.com/nianjingfeng/AOI/blob/master/image/ting_data.jpg)
+4. TIAO(條): From number 1 to 9.![](https://github.com/nianjingfeng/AOI/blob/master/image/tiao_data.jpg)
+5. Other: Particular pattern.![](https://github.com/nianjingfeng/AOI/blob/master/image/other.png)
 
 Process
 ---
@@ -32,3 +32,4 @@ The process of this final report is shown below:
 
 Inference
 ---
+![](https://github.com/nianjingfeng/AOI/blob/master/image/inference_video.gif)
